@@ -1,6 +1,6 @@
 ### React News Viewer
 
-new api : https://newsapi.org/s/south-korea-news-api
+news api : https://newsapi.org/s/south-korea-news-api
 
 api 연결 : axios 사용
 
