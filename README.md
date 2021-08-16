@@ -1,4 +1,4 @@
-###React News Viewer
+### React News Viewer
 
 new api : https://newsapi.org/s/south-korea-news-api
 
